@@ -1,6 +1,6 @@
 # **Gohugo**
 
-![bitcore](img/hugo.png)
+![hugo](img/hugo.png)
 
 This **Dockerfile** is related to this **docker** image:
 
